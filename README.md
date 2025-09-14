@@ -26,7 +26,3 @@ The project demonstrates **data cleaning, data validation, and exploratory data 
 ## 📎 References
 
 * Dataset: [Kaggle Olympics Dataset](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
-
-
-
-Would you like me to **write the README.md file directly** for you (so you can just upload it with your `.sql` scripts), or do you prefer a copy-paste template?
